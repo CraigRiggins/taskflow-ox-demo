@@ -35,8 +35,8 @@ findings accordingly.
 
 ### Make a change and open a PR
 
-Clone your fork, make a change to one of the files below, and open a PR against
-your fork's `main` branch. Good places to start:
+Clone the repo make a change to one of the files below, and open a PR against
+the `main` branch. Good places to start:
 
 ```bash
 git clone https://github.com/CraigRiggins/taskflow-ox-demo
