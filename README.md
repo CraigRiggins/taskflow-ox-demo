@@ -33,19 +33,7 @@ findings accordingly.
 
 ## Try it yourself
 
-### 1. Fork this repo
-
-Click **Fork** in the top right. This creates your own copy where you can open PRs.
-
-### 2. Install the ox GitHub App
-
-[Install ox on your forked repo →](https://github.com/apps/ox-review)
-
-ox will automatically onboard your repository — this takes about 2 minutes as it
-reads the codebase to build a baseline understanding of the conventions, hotspot
-files, and architecture.
-
-### 3. Make a change and open a PR
+### Make a change and open a PR
 
 Clone your fork, make a change to one of the files below, and open a PR against
 your fork's `main` branch. Good places to start:
