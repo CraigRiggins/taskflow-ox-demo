@@ -18,9 +18,8 @@ ox (short for antioxidant) prevents technical debt at the point of introduction.
 When you open a pull request, ox:
 
 1. Reads your diff and the surrounding codebase context
-2. Checks which files you changed against the hotspot model (which files have the
-   most churn and complexity)
-3. Retrieves relevant examples from the existing codebase via semantic search
+2. Checks which files you changed against the hotspot model
+3. Retrieves relevant examples from the existing codebase
 4. Posts inline review comments on the specific lines that introduce debt, with
    concrete suggested fixes
 
